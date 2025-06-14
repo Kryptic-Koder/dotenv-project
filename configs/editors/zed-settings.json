@@ -1,0 +1,10 @@
+{
+  "theme": "Tokyo Night",
+  "ui_font_size": 15,
+  "buffer_font_family": "FiraCode Nerd Font",
+  "format_on_save": "on",
+  "autosave": "on_focus_change",
+  "languages": { "Python": { "tab_size": 4 } },
+  "vim_mode": false,
+  "terminal": { "font_family": "MesloLGS NF" }
+}
